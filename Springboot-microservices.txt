@@ -1,4 +1,5 @@
 Spring Cloud ---> Spring cloud provide tools like Netflix EUreka for dynamic srvice registration and discovery, allowing microservices to locate and communicate each other.
 
 Netflex Eureka - central repository, if multiple services working tother it will track these services.
+lvdcszdxfcvgbnm,.,mn 
 
