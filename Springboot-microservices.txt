@@ -2,3 +2,6 @@ Spring Cloud ---> Spring cloud provide tools like Netflix EUreka for dynamic srv
 
 Netflex Eureka - central repository, if multiple services working tother it will track these services.
 
+Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, short lived microservices and contract testing).
+
+
